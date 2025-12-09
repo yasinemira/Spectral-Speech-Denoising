@@ -1,1 +1,1 @@
-This repo contains the code targeting to perform a solution to speech enhancement problems encountered in broadcasting, by creating a Linear/Non-Linear Spectral Speech Denoising System under different (STFT) windowing approaches.
+This repo contains an implementation that performs a solution -_by creating a Linear/Non-Linear Spectral Speech Denoising System under different Short-Time-Fourier-Transform windowing methods_- to speech enhancement problems encountered in audio broadcasting.
